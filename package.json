@@ -2,7 +2,9 @@
   "name": "react-redux-songs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rjmcbain.github.io/repo/react-redux-songs",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-redux": "^6.0.1",
@@ -10,6 +12,7 @@
     "redux": "^4.0.1"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

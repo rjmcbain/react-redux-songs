@@ -1,1 +1,1 @@
-export const SONG_SELECT = "SONG_SELECT";
+export const SONG_SELECTED = "SONG_SELECTED";
