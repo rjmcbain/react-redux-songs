@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/repo/react-redux-songs/precache-manifest.ac8ff39b79ff3be205a911bec4ca2374.js"
+  "/react-redux-songs/precache-manifest.040dccb041848b32a762e0b9540c5e97.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/repo/react-redux-songs/index.html", {
+workbox.routing.registerNavigationRoute("/react-redux-songs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

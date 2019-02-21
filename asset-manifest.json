@@ -1,11 +1,11 @@
 {
-  "main.js": "/repo/react-redux-songs/static/js/main.87e64565.chunk.js",
-  "main.js.map": "/repo/react-redux-songs/static/js/main.87e64565.chunk.js.map",
-  "runtime~main.js": "/repo/react-redux-songs/static/js/runtime~main.1ffc9e67.js",
-  "runtime~main.js.map": "/repo/react-redux-songs/static/js/runtime~main.1ffc9e67.js.map",
-  "static/js/2.3093d718.chunk.js": "/repo/react-redux-songs/static/js/2.3093d718.chunk.js",
-  "static/js/2.3093d718.chunk.js.map": "/repo/react-redux-songs/static/js/2.3093d718.chunk.js.map",
-  "index.html": "/repo/react-redux-songs/index.html",
-  "precache-manifest.ac8ff39b79ff3be205a911bec4ca2374.js": "/repo/react-redux-songs/precache-manifest.ac8ff39b79ff3be205a911bec4ca2374.js",
-  "service-worker.js": "/repo/react-redux-songs/service-worker.js"
+  "main.js": "/react-redux-songs/static/js/main.87e64565.chunk.js",
+  "main.js.map": "/react-redux-songs/static/js/main.87e64565.chunk.js.map",
+  "runtime~main.js": "/react-redux-songs/static/js/runtime~main.bb21dee0.js",
+  "runtime~main.js.map": "/react-redux-songs/static/js/runtime~main.bb21dee0.js.map",
+  "static/js/2.3093d718.chunk.js": "/react-redux-songs/static/js/2.3093d718.chunk.js",
+  "static/js/2.3093d718.chunk.js.map": "/react-redux-songs/static/js/2.3093d718.chunk.js.map",
+  "index.html": "/react-redux-songs/index.html",
+  "precache-manifest.040dccb041848b32a762e0b9540c5e97.js": "/react-redux-songs/precache-manifest.040dccb041848b32a762e0b9540c5e97.js",
+  "service-worker.js": "/react-redux-songs/service-worker.js"
 }
